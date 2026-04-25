@@ -45,6 +45,15 @@ CIVITAS provides a digital platform where citizens can report civic issues, trac
 
 ---
 
+## Future Scope
+
+- Mobile App  
+- AI complaint prioritization  
+- Live Maps  
+- Government Dashboard
+  
+---
+
 ## Team Members
 
 - Harsh Nalawade
@@ -52,11 +61,4 @@ CIVITAS provides a digital platform where citizens can report civic issues, trac
 - Siddhi Lokhande
   
 
----
 
-## Future Scope
-
-- Mobile App  
-- AI complaint prioritization  
-- Live Maps  
-- Government Dashboard
