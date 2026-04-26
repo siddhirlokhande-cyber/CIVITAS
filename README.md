@@ -1,64 +1,16 @@
-# CIVITAS
+# React + Vite
 
-Smart civic governance platform for transparent issue reporting and resolution.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
----
+Currently, two official plugins are available:
 
-## Problem Statement
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-Citizens face problems like potholes, water shortages, electricity failures, and delayed complaint resolution.
+## React Compiler
 
----
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Solution
+## Expanding the ESLint configuration
 
-CIVITAS provides a digital platform where citizens can report civic issues, track progress, and improve accountability.
-
----
-
-## Features
-
-- Report local civic issues
-- Category-based complaints
-- Priority levels (Low / Medium / High)
-- Ward-wise officer assignment
-- Pending / Resolved status tracking
-- Real-time statistics dashboard
-
----
-
-## How to Run
-
-1. Open index.html in browser  
-2. Submit issue using form  
-3. Resolve issues using Resolve button  
-4. Dashboard updates automatically
-
----
-
-## Tech Stack
-
-- HTML  
-- CSS  
-- JavaScript  
-- GitHub  
-
----
-
-## Future Scope
-
-- Mobile App  
-- AI complaint prioritization  
-- Live Maps  
-- Government Dashboard
-  
----
-
-## Team Members
-
-- Harsh Nalawade
-- Prachi Pandit
-- Siddhi Lokhande
-  
-
-
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
